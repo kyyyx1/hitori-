@@ -3,8 +3,8 @@ process.on('unhandledRejection', console.error)
 
 /*
 	* Create By Naze
-	* Follow https://github.com/nazedev
-	* Whatsapp : https://whatsapp.com/channel/0029VaWOkNm7DAWtkvkJBK43
+	* Follow https://github.com/kyyyx1
+	* Whatsapp : https://whatsapp.com/channel/0029VbAZig58qIzjeC8PDy1B
 */
 
 require('./settings');
