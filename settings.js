@@ -2,9 +2,9 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 /*
-	* Create By Naze
-	* Follow https://github.com/nazedev
-	* Whatsapp : https://whatsapp.com/channel/0029VaWOkNm7DAWtkvkJBK43
+	* Create By Kyyyx10 
+	* Follow https://github.com/kyyyx1
+	* Whatsapp : https://whatsapp.com/channel/0029VbAZig58qIzjeC8PDy1B
 */
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
